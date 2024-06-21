@@ -13,7 +13,7 @@ This is a simple CRUD application for managing car cards. It provides a basic in
 - Other tools: EntityFrameworkCore
 ## Usage
 - To add a new car, navigate to the "Add Car" page and fill out the form
-- To view all cars, go to the "Cars" page
+- To view all cars, go to the "Car List" page
 - To edit a car, click the "Details" button next to the car you want to update then fill out the form and click the "Update" button
 - To delete a car, click the "Delete" button next to the car you want to remove
 ## Contact
@@ -34,7 +34,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 - Остальное: EntityFrameworkCore
 ## Использование
 - Чтобы добавить новую карточку с авто, перейдите на вкладку "Add Car" и заполните форму
-- Для просмотра всех карточек с машинами перейдите на вкладку "Cars"
+- Для просмотра всех карточек с машинами перейдите на вкладку "Car List"
 - Для редактирования карточки нажмите на кнопку "Details", затем отредактируйте нужные поля и нажмите кнопку "Update"
 - Чтобы удалить карточку с авто, нажмите на кнопку "Delete"
 ## Контакты
